@@ -1,16 +1,23 @@
-### Hi there 👋
+# Krzysztof Witkowski 🇵🇱
 
-<!--
-**kriskw1999/kriskw1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [![GitHub followers](https://img.shields.io/github/followers/[your-username]?style=social)](https://github.com/kriskw1999) -->
 
-Here are some ideas to get you started:
+## About me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ **Title:** Frontend engineer
+- 🎯 **Company:** [Kampaay](https://www.kampaay.com/about-us)
+- ♟️ **Passions:** Programming, chess and chalistenics
+
+## Technologies Used
+
+- **Vue, Vuetify, Nuxt, Pinia, Vuex**
+- **React, Next, MUI, Recoil, Redux**
+- **Typescript**
+- **Jest, Vitest, Puppeteer**
+
+## Contact
+
+You can reach me at:
+
+- [Email](mailto:kriskw1999@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/krzysztof-witkowski-39ba2b1a4)
