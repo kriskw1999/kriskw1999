@@ -5,7 +5,7 @@
 ## About me 
 
 - ⚛️ **Title:** Frontend engineer
-- 🎯 **Company:** [Kampaay](https://www.kampaay.com/about-us)
+- 🎯 **Company:** Syscons interactive
 - ♟️ **Passions:** Programming, chess and chalistenics
 
 ## Technologies Used
