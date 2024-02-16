@@ -4,16 +4,9 @@
 
 ## About me 
 
-- ⚛️ **Title:** Frontend engineer
-- 🎯 **Company:** Syscons interactive
-- ♟️ **Passions:** Programming, chess and chalistenics
-
-## Technologies Used
-
-- **Vue, Vuetify, Nuxt, Pinia, Vuex**
-- **React, Next, MUI, Recoil, Redux**
-- **Typescript**
-- **Jest, Vitest, Puppeteer**
+- ⚛️ **Title:** Software Engineer
+- 🎯 **Company:** Syscons Interactive
+- ♟️ **Passions:** Programming, chess and calistenics
 
 ## Contact
 
