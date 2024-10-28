@@ -24,4 +24,4 @@ I'm a Senior Software Engineer with a strong passion for Rust programming. I lov
 - Twitter: [Follow](https://x.com/kriskw19999)
 - Email: [Contact](mailto:kriskw1999@gmail.com)
 
-Let's connect and talk about Rust, chess, or anything tech!
+[![An image of @kriskw1999's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kriskw1999)](https://holopin.io/@kriskw1999)
